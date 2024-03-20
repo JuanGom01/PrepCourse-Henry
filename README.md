@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba modulo 2 prepcourse soyhenry
+este repositorio es una prueba para entender el funcionamiento de la herramienta "git"
